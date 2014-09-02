@@ -1,3 +1,6 @@
+*slightly modified to work with Sublime 3 and windows with project data*
+
+
 SwitchWindow
 ============
 
